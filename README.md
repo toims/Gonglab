@@ -25,6 +25,15 @@
 | 管理后台 | 导入/导出题库 JSON、管理自定义文章 |
 | AI 题库生成 | `scripts/gen-questions.mjs` 一键批量生成题目 |
 
+![](D:\WorkBuddy\Workspase\2026-07-12-21-14-21\gk-exam-site\png\首页.png)
+
+![](D:\WorkBuddy\Workspase\2026-07-12-21-14-21\gk-exam-site\png\知识库.png)
+
+![](D:\WorkBuddy\Workspase\2026-07-12-21-14-21\gk-exam-site\png\模拟考.png)
+![](D:\WorkBuddy\Workspase\2026-07-12-21-14-21\gk-exam-site\png\错题本.png)
+
+![](D:\WorkBuddy\Workspase\2026-07-12-21-14-21\gk-exam-site\png\手动导入界面.png)
+
 ## 快速开始
 
 ```bash
