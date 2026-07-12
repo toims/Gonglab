@@ -25,7 +25,8 @@
 | 管理后台 | 导入/导出题库 JSON、管理自定义文章 |
 | AI 题库生成 | `scripts/gen-questions.mjs` 一键批量生成题目 |
 
-![首页展示](png\首页.png)
+![首页展示](.\png\首页.png)
+![Uploading 首页.png…]()
 
 ![知识库展示](png\知识库.png)
 
