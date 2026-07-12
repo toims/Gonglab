@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc-types-001",
+    "type": "单选",
+    "category": "document-writing",
+    "subcategory": "types",
+    "question": "下列哪项属于上行文？",
+    "options": ["命令", "决定", "报告", "批复"],
+    "answer": 2,
+    "explanation": "报告属于上行文（下级向上级汇报工作）。命令、决定、批复均属于下行文。上行文还包括请示。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "doc-types-002",
+    "type": "单选",
+    "category": "document-writing",
+    "subcategory": "types",
+    "question": "下列公文中，属于平行文的是？",
+    "options": ["请示", "批复", "函", "报告"],
+    "answer": 2,
+    "explanation": "函适用于不相隶属机关之间商洽工作、询问和答复问题，属于平行文。请示和报告是上行文，批复是下行文。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "doc-format-001",
+    "type": "多选",
+    "category": "document-writing",
+    "subcategory": "format",
+    "question": "公文格式中，版头部分通常包括哪些要素？",
+    "options": ["份号", "密级和保密期限", "发文机关标志", "成文日期"],
+    "answer": [0, 1, 2],
+    "explanation": "版头包括份号、密级和保密期限、紧急程度、发文机关标志、发文字号、签发人等。成文日期属于主体部分。",
+    "difficulty": "中",
+    "frequency": "中频"
+  },
+  {
+    "id": "doc-rules-001",
+    "type": "判断",
+    "category": "document-writing",
+    "subcategory": "rules",
+    "question": "下级机关可以向上级机关行文请示，也可以同时抄送下级机关。",
+    "options": ["正确", "错误"],
+    "answer": 1,
+    "explanation": "错误。根据《党政机关公文处理工作条例》，向上级机关行文原则上主送一个上级机关，不得在报告等非请示性公文中夹带请示事项，且一般不得抄送下级机关。",
+    "difficulty": "中",
+    "frequency": "中频"
+  },
+  {
+    "id": "doc-writing-001",
+    "type": "单选",
+    "category": "document-writing",
+    "subcategory": "writing",
+    "question": "\"通知\"属于公文的哪一种？",
+    "options": ["上行文", "下行文", "平行文", "泛行文"],
+    "answer": 1,
+    "explanation": "通知一般属于下行文，用于发布、传达要求下级机关执行的事项。批转、转发公文也用通知。",
+    "difficulty": "易",
+    "frequency": "高频"
+  }
+]

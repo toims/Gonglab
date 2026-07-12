@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sci-history-001",
+    "type": "单选",
+    "category": "science",
+    "subcategory": "sci-history",
+    "question": "中国古代\"四大发明\"不包括？",
+    "options": ["造纸术", "印刷术", "地动仪", "火药"],
+    "answer": 2,
+    "explanation": "中国古代四大发明是造纸术、印刷术、火药和指南针。地动仪是张衡的重要发明但不属于四大发明。",
+    "difficulty": "易",
+    "frequency": "中频"
+  },
+  {
+    "id": "sci-frontier-001",
+    "type": "单选",
+    "category": "science",
+    "subcategory": "frontier",
+    "question": "\"5G\"中的\"G\"代表什么？",
+    "options": ["Giga", "Generation", "Global", "Great"],
+    "answer": 1,
+    "explanation": "5G是第五代移动通信技术，G是Generation（代）的缩写。5G具有高速率、低时延、大连接的特点。",
+    "difficulty": "易",
+    "frequency": "中频"
+  },
+  {
+    "id": "sci-frontier-002",
+    "type": "单选",
+    "category": "science",
+    "subcategory": "frontier",
+    "question": "中国\"北斗卫星导航系统\"到2020年已实现什么覆盖？",
+    "options": ["亚太地区", "全球覆盖", "国内覆盖", "一带一路沿线"],
+    "answer": 1,
+    "explanation": "北斗三号全球卫星导航系统于2020年7月31日正式开通，实现了全球覆盖，标志着中国成为第三个独立拥有全球卫星导航系统的国家。",
+    "difficulty": "中",
+    "frequency": "中频"
+  },
+  {
+    "id": "sci-it-001",
+    "type": "单选",
+    "category": "science",
+    "subcategory": "it",
+    "question": "计算机中\"CPU\"的全称是？",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Core Processing Unit"],
+    "answer": 1,
+    "explanation": "CPU全称是Central Processing Unit（中央处理器），是计算机的核心部件，负责执行指令和处理数据。",
+    "difficulty": "易",
+    "frequency": "低频"
+  }
+]

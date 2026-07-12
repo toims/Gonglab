@@ -1,0 +1,62 @@
+[
+  {
+    "id": "politics-marxism-001",
+    "type": "单选",
+    "category": "politics",
+    "subcategory": "marxism",
+    "question": "唯物辩证法的实质和核心是？",
+    "options": ["质量互变规律", "对立统一规律", "否定之否定规律", "联系的观点"],
+    "answer": 1,
+    "explanation": "对立统一规律（矛盾规律）是唯物辩证法的实质和核心，因为它揭示了事物发展的根本动力和源泉。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "politics-marxism-002",
+    "type": "单选",
+    "category": "politics",
+    "subcategory": "marxism",
+    "question": "\"一把钥匙开一把锁\"体现的哲学原理是？",
+    "options": ["矛盾的普遍性", "矛盾的特殊性", "物质的决定作用", "质量互变规律"],
+    "answer": 1,
+    "explanation": "\"一把钥匙开一把锁\"体现了具体问题具体分析的哲学原理，即矛盾的特殊性。不同的事物有不同的矛盾，需要用不同的方法解决。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "politics-marxism-003",
+    "type": "判断",
+    "category": "politics",
+    "subcategory": "marxism",
+    "question": "唯物辩证法认为，否定就是全盘抛弃旧事物。",
+    "options": ["正确", "错误"],
+    "answer": 1,
+    "explanation": "错误。辩证否定是\"扬弃\"，即既克服又保留，既要克服旧事物中的消极因素，又要保留和继承其中的积极因素。",
+    "difficulty": "中",
+    "frequency": "高频"
+  },
+  {
+    "id": "politics-marxism-004",
+    "type": "多选",
+    "category": "politics",
+    "subcategory": "marxism",
+    "question": "下列属于唯物辩证法基本规律的是？",
+    "options": ["对立统一规律", "量变质变规律", "价值规律", "否定之否定规律"],
+    "answer": [0, 1, 3],
+    "explanation": "唯物辩证法的三大基本规律是对立统一规律、量变质变规律和否定之否定规律。价值规律是经济学中的概念。",
+    "difficulty": "中",
+    "frequency": "高频"
+  },
+  {
+    "id": "politics-mao-001",
+    "type": "单选",
+    "category": "politics",
+    "subcategory": "mao-zedong",
+    "question": "\"星星之火，可以燎原\"所体现的思想是？",
+    "options": ["社会主义改造理论", "农村包围城市", "统一战线理论", "独立自主原则"],
+    "answer": 1,
+    "explanation": "\"星星之火，可以燎原\"是毛泽东对中国革命道路的形象表述，体现了农村包围城市、武装夺取政权的思想。",
+    "difficulty": "易",
+    "frequency": "中频"
+  }
+]

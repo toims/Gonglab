@@ -1,0 +1,62 @@
+[
+  {
+    "id": "history-ancient-001",
+    "type": "单选",
+    "category": "history",
+    "subcategory": "ancient-1",
+    "question": "中国历史上第一个统一的封建王朝是？",
+    "options": ["西周", "秦朝", "汉朝", "隋朝"],
+    "answer": 1,
+    "explanation": "公元前221年，秦王嬴政统一六国，建立了中国历史上第一个统一的中央集权封建王朝——秦朝。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "history-ancient-002",
+    "type": "单选",
+    "category": "history",
+    "subcategory": "ancient-2",
+    "question": "\"贞观之治\"发生在哪个朝代？",
+    "options": ["汉朝", "唐朝", "宋朝", "明朝"],
+    "answer": 1,
+    "explanation": "贞观之治是唐太宗李世民在位期间（627-649年）出现的治世局面，是唐朝的第一个盛世。",
+    "difficulty": "易",
+    "frequency": "中频"
+  },
+  {
+    "id": "history-modern-001",
+    "type": "单选",
+    "category": "history",
+    "subcategory": "modern",
+    "question": "鸦片战争爆发的年份是？",
+    "options": ["1838年", "1840年", "1842年", "1856年"],
+    "answer": 1,
+    "explanation": "第一次鸦片战争爆发于1840年，1842年签订《南京条约》结束。这是中国近代史的开端。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "history-modern-002",
+    "type": "单选",
+    "category": "history",
+    "subcategory": "modern",
+    "question": "辛亥革命推翻了哪个王朝的统治？",
+    "options": ["明朝", "清朝", "北洋政府", "中华民国"],
+    "answer": 1,
+    "explanation": "1911年（辛亥年）爆发的辛亥革命推翻了清朝统治，结束了中国两千多年的封建君主专制制度。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "history-world-001",
+    "type": "单选",
+    "category": "history",
+    "subcategory": "world",
+    "question": "第一次世界大战爆发的年份是？",
+    "options": ["1912年", "1914年", "1917年", "1918年"],
+    "answer": 1,
+    "explanation": "第一次世界大战爆发于1914年7月28日，结束于1918年11月11日。导火索是萨拉热窝事件。",
+    "difficulty": "易",
+    "frequency": "中频"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "law-constitution-001",
+    "type": "单选",
+    "category": "law",
+    "subcategory": "constitution",
+    "question": "我国现行宪法是哪一年通过的？",
+    "options": ["1954年", "1975年", "1978年", "1982年"],
+    "answer": 3,
+    "explanation": "我国现行宪法是1982年12月4日由第五届全国人民代表大会第五次会议通过的，后经1988年、1993年、1999年、2004年、2018年五次修正。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "law-constitution-002",
+    "type": "单选",
+    "category": "law",
+    "subcategory": "constitution",
+    "question": "下列哪项不属于全国人民代表大会的职权？",
+    "options": ["修改宪法", "制定行政法规", "选举国家主席", "决定战争与和平问题"],
+    "answer": 1,
+    "explanation": "制定行政法规是国务院的职权。全国人民代表大会的职权包括修改宪法、选举国家主席、决定战争与和平问题等。",
+    "difficulty": "中",
+    "frequency": "高频"
+  },
+  {
+    "id": "law-constitution-003",
+    "type": "判断",
+    "category": "law",
+    "subcategory": "constitution",
+    "question": "全国人民代表大会常务委员会有权修改宪法。",
+    "options": ["正确", "错误"],
+    "answer": 1,
+    "explanation": "错误。修改宪法的权力属于全国人民代表大会，全国人大常委会只能解释宪法和监督宪法实施，无权修改宪法。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "law-constitution-004",
+    "type": "单选",
+    "category": "law",
+    "subcategory": "constitution",
+    "question": "中华人民共和国主席必须年满多少周岁？",
+    "options": ["35周岁", "40周岁", "45周岁", "50周岁"],
+    "answer": 2,
+    "explanation": "根据我国宪法规定，有选举权和被选举权的年满四十五周岁的中华人民共和国公民可以被选为中华人民共和国主席、副主席。",
+    "difficulty": "中",
+    "frequency": "中频"
+  },
+  {
+    "id": "law-constitution-005",
+    "type": "多选",
+    "category": "law",
+    "subcategory": "constitution",
+    "question": "下列属于国务院组成人员的是？",
+    "options": ["总理", "各部部长", "国家主席", "审计长"],
+    "answer": [0, 1, 3],
+    "explanation": "国务院由总理、副总理、国务委员、各部部长、各委员会主任、审计长、秘书长组成。国家主席不属于国务院组成人员。",
+    "difficulty": "中",
+    "frequency": "中频"
+  },
+  {
+    "id": "law-civil-001",
+    "type": "单选",
+    "category": "law",
+    "subcategory": "civil-law",
+    "question": "根据《民法典》，自然人的民事权利能力始于何时？",
+    "options": ["年满18周岁", "年满16周岁", "出生时", "登记户籍时"],
+    "answer": 2,
+    "explanation": "根据《民法典》第十三条规定，自然人从出生时起到死亡时止，具有民事权利能力，依法享有民事权利，承担民事义务。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "law-civil-002",
+    "type": "单选",
+    "category": "law",
+    "subcategory": "civil-law",
+    "question": "下列哪个年龄段的自然人为限制民事行为能力人？",
+    "options": ["不满8周岁", "8周岁以上不满18周岁", "不满18周岁", "不满16周岁"],
+    "answer": 1,
+    "explanation": "根据《民法典》第十九条，八周岁以上的未成年人为限制民事行为能力人。不满八周岁的为无民事行为能力人。",
+    "difficulty": "中",
+    "frequency": "高频"
+  }
+]

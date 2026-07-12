@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pcb-physics-001",
+    "type": "单选",
+    "category": "physics-chem-bio",
+    "subcategory": "physics",
+    "question": "光在真空中的传播速度约为？",
+    "options": ["3×10^6 m/s", "3×10^8 m/s", "3×10^5 m/s", "3×10^10 m/s"],
+    "answer": 1,
+    "explanation": "光在真空中的传播速度约为3×10^8 m/s（30万公里/秒），是自然界中物质运动的最快速度。",
+    "difficulty": "易",
+    "frequency": "低频"
+  },
+  {
+    "id": "pcb-physics-002",
+    "type": "单选",
+    "category": "physics-chem-bio",
+    "subcategory": "physics",
+    "question": "下列哪个不是力的三要素之一？",
+    "options": ["大小", "方向", "作用点", "速度"],
+    "answer": 3,
+    "explanation": "力的三要素是大小、方向和作用点。改变其中任何一个要素，力的作用效果都会改变。速度不是力的要素。",
+    "difficulty": "易",
+    "frequency": "低频"
+  },
+  {
+    "id": "pcb-chemistry-001",
+    "type": "单选",
+    "category": "physics-chem-bio",
+    "subcategory": "chemistry",
+    "question": "水的化学式是？",
+    "options": ["CO2", "H2O", "NaCl", "O2"],
+    "answer": 1,
+    "explanation": "水的化学式是H2O，由两个氢原子和一个氧原子组成。CO2是二氧化碳，NaCl是食盐，O2是氧气。",
+    "difficulty": "易",
+    "frequency": "低频"
+  },
+  {
+    "id": "pcb-biology-001",
+    "type": "单选",
+    "category": "physics-chem-bio",
+    "subcategory": "biology",
+    "question": "人体最大的器官是？",
+    "options": ["心脏", "肝脏", "皮肤", "大脑"],
+    "answer": 2,
+    "explanation": "皮肤是人体最大的器官，成年人的皮肤面积约为1.5-2平方米，重量约占体重的16%。",
+    "difficulty": "易",
+    "frequency": "低频"
+  },
+  {
+    "id": "pcb-biology-002",
+    "type": "判断",
+    "category": "physics-chem-bio",
+    "subcategory": "biology",
+    "question": "DNA的全称是脱氧核糖核酸。",
+    "options": ["正确", "错误"],
+    "answer": 0,
+    "explanation": "正确。DNA（Deoxyribonucleic Acid）即脱氧核糖核酸，是生物遗传信息的载体。",
+    "difficulty": "易",
+    "frequency": "低频"
+  }
+]

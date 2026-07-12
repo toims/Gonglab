@@ -1,0 +1,24 @@
+{
+  "id": "exam-001",
+  "title": "公基综合模拟卷（一）",
+  "description": "覆盖全部10大学科，共15题，考试时间20分钟",
+  "duration": 20,
+  "questionIds": [
+    "politics-marxism-001",
+    "politics-marxism-002",
+    "politics-mao-001",
+    "law-constitution-001",
+    "law-constitution-002",
+    "law-civil-001",
+    "economics-micro-001",
+    "economics-macro-001",
+    "doc-types-001",
+    "history-ancient-001",
+    "history-modern-001",
+    "sci-history-001",
+    "geo-china-001",
+    "nc-population-001",
+    "pcb-physics-001"
+  ],
+  "category": "全部"
+}

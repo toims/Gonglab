@@ -1,0 +1,50 @@
+[
+  {
+    "id": "geo-physical-001",
+    "type": "单选",
+    "category": "geography",
+    "subcategory": "physical-geo",
+    "question": "世界上面积最大的海洋是？",
+    "options": ["大西洋", "印度洋", "太平洋", "北冰洋"],
+    "answer": 2,
+    "explanation": "太平洋是世界上面积最大、最深的大洋，面积约1.8亿平方公里，占地球海洋面积的一半。",
+    "difficulty": "易",
+    "frequency": "低频"
+  },
+  {
+    "id": "geo-china-001",
+    "type": "单选",
+    "category": "geography",
+    "subcategory": "china-geo",
+    "question": "中国最长的河流是？",
+    "options": ["黄河", "长江", "珠江", "淮河"],
+    "answer": 1,
+    "explanation": "长江全长约6300公里，是中国第一长河、世界第三长河。黄河长约5464公里，是中国第二长河。",
+    "difficulty": "易",
+    "frequency": "低频"
+  },
+  {
+    "id": "geo-china-002",
+    "type": "单选",
+    "category": "geography",
+    "subcategory": "china-geo",
+    "question": "中国地势的基本特征是？",
+    "options": ["东高西低", "西高东低", "南高北低", "北高南低"],
+    "answer": 1,
+    "explanation": "中国地势呈西高东低的阶梯状分布，从青藏高原（第一阶梯）向东部平原（第三阶梯）逐级下降。",
+    "difficulty": "易",
+    "frequency": "中频"
+  },
+  {
+    "id": "geo-world-001",
+    "type": "单选",
+    "category": "geography",
+    "subcategory": "world-geo",
+    "question": "世界上面积最大的国家是？",
+    "options": ["中国", "美国", "加拿大", "俄罗斯"],
+    "answer": 3,
+    "explanation": "俄罗斯是世界上面积最大的国家，面积约1709万平方公里。中国面积约960万平方公里，居世界第三位。",
+    "difficulty": "易",
+    "frequency": "低频"
+  }
+]

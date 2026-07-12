@@ -1,0 +1,62 @@
+[
+  {
+    "id": "economics-micro-001",
+    "type": "单选",
+    "category": "economics",
+    "subcategory": "micro",
+    "question": "在其他条件不变的情况下，商品价格上升会导致？",
+    "options": ["需求量增加", "需求量减少", "供给量减少", "需求增加"],
+    "answer": 1,
+    "explanation": "根据需求定律，在其他条件不变的情况下，商品价格上升，需求量减少；价格下降，需求量增加。注意区分需求量变动（沿曲线移动）和需求变动（曲线平移）。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "economics-micro-002",
+    "type": "单选",
+    "category": "economics",
+    "subcategory": "micro",
+    "question": "某种商品的替代品价格上升，会导致该商品的？",
+    "options": ["需求量减少", "需求减少", "需求增加", "供给增加"],
+    "answer": 2,
+    "explanation": "替代品价格上升，消费者会转而购买该商品，导致该商品的需求增加（需求曲线向右平移）。例如：猪肉涨价，鸡肉需求增加。",
+    "difficulty": "中",
+    "frequency": "中频"
+  },
+  {
+    "id": "economics-macro-001",
+    "type": "单选",
+    "category": "economics",
+    "subcategory": "macro",
+    "question": "衡量一国经济增长最常用的指标是？",
+    "options": ["CPI", "PPI", "GDP增长率", "失业率"],
+    "answer": 2,
+    "explanation": "GDP（国内生产总值）增长率是衡量一国经济增长最常用的指标。CPI反映物价水平，PPI反映生产者价格，失业率反映就业状况。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "economics-macro-002",
+    "type": "判断",
+    "category": "economics",
+    "subcategory": "macro",
+    "question": "通货膨胀是指物价总水平持续下降的现象。",
+    "options": ["正确", "错误"],
+    "answer": 1,
+    "explanation": "错误。通货膨胀是指物价总水平持续上涨的现象。物价总水平持续下降称为通货紧缩。",
+    "difficulty": "易",
+    "frequency": "高频"
+  },
+  {
+    "id": "economics-fiscal-001",
+    "type": "单选",
+    "category": "economics",
+    "subcategory": "fiscal",
+    "question": "下列属于扩张性财政政策的是？",
+    "options": ["提高税率", "减少政府支出", "增加政府购买", "提高存款准备金率"],
+    "answer": 2,
+    "explanation": "扩张性财政政策包括减少税收、增加政府购买和增加转移支付。提高税率和减少政府支出属于紧缩性财政政策。存款准备金率属于货币政策工具。",
+    "difficulty": "中",
+    "frequency": "中频"
+  }
+]
